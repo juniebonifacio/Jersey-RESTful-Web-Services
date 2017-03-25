@@ -1,0 +1,4 @@
+Project was created using Maven archetype:
+1303: remote -> org.glassfish.jersey.archetypes:jersey-quickstart-webapp 
+(An archetype which contains a quick start Jersey-based web application project.)
+
